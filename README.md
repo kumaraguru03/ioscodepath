@@ -1,17 +1,17 @@
-# Pre-work - Tip Calculator
+# Pre-work - iTip
 
-**Name of your app** is a tip calculator application for iOS.
+iTip is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: Guru Vijayakumar
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] Settings page to change the default tip percentage.
+* [Y] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [Y] Settings page to change the default tip percentage.
 
 The following **optional** features are implemented:
 * [ ] UI animations
